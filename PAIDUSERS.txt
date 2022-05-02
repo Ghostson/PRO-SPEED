@@ -17,5 +17,5 @@ Bi key 1st may
 1|0|3|1|1|u|0|_|a|3|1|1
 Terry guy 2nd may
 1|0|2|3|7|u|0|_|a|2|3|7
-sommy Gee 
+sommy gee 
 1|0|1|2|0|u|0|_|a|1|2|0
